@@ -1,0 +1,319 @@
+[
+  {
+    "chef_picture": "https://i.ibb.co/qBRGCF0/jurica-koletic-7-YVZYZe-ITc8-unsplash.jpg",
+    "id": "1",
+    "chef_name": "Yuki Tanaka",
+    "years_of_experience": 9,
+    "num_recipes": 50,
+    "likes": 16.7,
+    "bio": "Yuki Tanaka is a passionate chef who has been working in the culinary industry for over a decade. His love for cooking began at a young age, and he has since honed his skills in some of the finest kitchens in the world. He is known for his innovative recipes and use of fresh, seasonal ingredients. In his free time, Yuki enjoys exploring local food markets and experimenting with new flavors.",
+    "recipes": [
+      {
+        "name": "Tuna Sushi Roll",
+        "ingredients": [
+          "Sushi rice",
+          "Tuna",
+          "Nori seaweed",
+          "Cucumber",
+          "Avocado",
+          "Soy sauce",
+          "Wasabi"
+        ],
+        "cooking_method": "Spread sushi rice on a sheet of nori. Add tuna, cucumber, and avocado. Roll the sushi tightly and cut into bite-sized pieces. Serve with soy sauce and wasabi.",
+        "rating": 4.8
+      },
+      {
+        "name": "Tempura Prawns",
+        "ingredients": [
+          "Prawns",
+          "Tempura batter mix",
+          "Ice-cold water",
+          "Vegetable oil"
+        ],
+        "cooking_method": "Heat vegetable oil in a deep pan. Dip prawns in tempura batter and fry until crispy and golden. Serve hot with dipping sauce.",
+        "rating": 4.5
+      },
+      {
+        "name": "Tonkotsu Ramen",
+        "ingredients": [
+          "Beef bones",
+          "Soy sauce",
+          "Mirin",
+          "Garlic",
+          "Ginger",
+          "Ramen noodles",
+          "Chashu beef",
+          "Soft-boiled egg",
+          "Green onions"
+        ],
+        "cooking_method": "Simmer beef bones, garlic, and ginger in water for hours to make broth. Add soy sauce and mirin for seasoning. Cook ramen noodles separately and place in a bowl. Pour hot broth over noodles and top with chashu beef, soft-boiled egg, and chopped green onions.",
+        "rating": 4.9
+      }
+    ]
+  },
+  {
+    "chef_picture": "https://i.ibb.co/vD6ZTBQ/abdullah-arain-8-n-ZZJCq-Xh0-unsplash.jpg",
+    "id": "2",
+    "chef_name": "Hiroshi Nakamura",
+    "years_of_experience": 7,
+    "num_recipes": 70,
+    "likes": 10.8,
+    "bio": "Hiroshi Nakamura is a talented chef with a passion for Japanese cuisine. He has been honing his culinary skills for several years and has worked in some renowned kitchens. His innovative recipes and dedication to using fresh, high-quality ingredients make him stand out. When not cooking, Hiroshi enjoys exploring traditional food markets and experimenting with new cooking techniques.",
+    "recipes": [
+      {
+        "name": "Salmon Sashimi",
+        "ingredients": [
+          "Fresh salmon",
+          "Soy sauce",
+          "Wasabi",
+          "Pickled ginger"
+        ],
+        "cooking_method": "Slice fresh salmon into thin pieces. Serve with soy sauce, wasabi, and pickled ginger.",
+        "rating": 4.7
+      },
+      {
+        "name": "Kake Udon",
+        "ingredients": [
+          "Udon noodles",
+          "Dashi broth",
+          "Soy sauce",
+          "Mirin",
+          "Green onions",
+          "Tempura flakes"
+        ],
+        "cooking_method": "Cook udon noodles and place in a bowl. Pour hot dashi broth seasoned with soy sauce and mirin over the noodles. Top with chopped green onions and tempura flakes.",
+        "rating": 4.6
+      },
+      {
+        "name": "Japanese Curry",
+        "ingredients": [
+          "Vegetables",
+          "Potatoes",
+          "Carrots",
+          "Onion",
+          "Chicken or beef",
+          "Japanese curry roux",
+          "Water",
+          "Cooked rice"
+        ],
+        "cooking_method": "Sauté vegetables and meat. Add water and simmer until cooked. Stir in Japanese curry roux until it thickens. Serve over cooked rice.",
+        "rating": 4.9
+      }
+    ]
+  },
+  {
+    "chef_picture": "https://i.ibb.co/hKQqbnS/martin-baron-Kdi9-H3-R1ik-unsplash.jpg",
+    "id": "3",
+    "chef_name": "Akira Yamamoto",
+    "years_of_experience": 11,
+    "num_recipes": 50,
+    "likes": 13.7,
+    "bio": "Akira Yamamoto is an experienced chef who has dedicated over a decade to perfecting the art of Japanese cuisine. His culinary journey began early in life, and he has since honed his skills in some of the most prestigious kitchens worldwide. Akira is renowned for his creative recipes and emphasis on using fresh, seasonal ingredients. In his leisure time, he enjoys exploring the intricacies of traditional Japanese teas and crafting exquisite matcha desserts.",
+    "recipes": [
+      {
+        "name": "Dragon Roll",
+        "ingredients": [
+          "Sushi rice",
+          "Nori seaweed",
+          "Tempura shrimp",
+          "Avocado",
+          "Unagi (eel)",
+          "Soy sauce",
+          "Wasabi",
+          "Pickled ginger"
+        ],
+        "cooking_method": "Spread sushi rice on a sheet of nori. Add tempura shrimp, avocado, and unagi. Roll the sushi tightly and cut into pieces. Serve with soy sauce, wasabi, and pickled ginger.",
+        "rating": 4.8
+      },
+      {
+        "name": "Zaru Soba",
+        "ingredients": [
+          "Soba noodles",
+          "Soba tsuyu (dipping sauce)",
+          "Wasabi",
+          "Green onions",
+          "Nori seaweed"
+        ],
+        "cooking_method": "Cook soba noodles until firm. Drain and rinse under cold water. Serve on a bamboo mat (zaru) with soba tsuyu for dipping. Add wasabi, chopped green onions, and nori as toppings.",
+        "rating": 4.6
+      },
+      {
+        "name": "Matcha Cheesecake",
+        "ingredients": [
+          "Cream cheese",
+          "Sugar",
+          "Eggs",
+          "Sour cream",
+          "Matcha powder",
+          "Graham cracker crust"
+        ],
+        "cooking_method": "Mix cream cheese, sugar, eggs, and sour cream. Add matcha powder for flavor and color. Pour mixture into a graham cracker crust and bake until set. Chill before serving.",
+        "rating": 4.9
+      }
+    ]
+  },
+  {
+    "chef_picture": "https://i.ibb.co/D8XSBZQ/petr-sevcovic-e12w-QLAj-Qi0-unsplash-1.jpg",
+    "id": "4",
+    "chef_name": "Sakura Watanabe",
+    "years_of_experience": 13,
+    "num_recipes": 80,
+    "rating": 4.8,
+    "likes": 5.5,
+    "bio": "Sakura Watanabe is a seasoned chef with a passion for the diverse flavors of Japan. With more than a decade of culinary experience, she has honed her skills in some of the most prestigious kitchens. Sakura is celebrated for her culinary creativity and her use of fresh, seasonal ingredients. In her spare time, she loves to explore the streets of Tokyo, discovering hidden food gems and perfecting her yakitori grilling techniques.",
+    "recipes": [
+      {
+        "name": "Tonkotsu Ramen",
+        "ingredients": [
+          "Beef bones",
+          "Soy sauce",
+          "Mirin",
+          "Garlic",
+          "Ginger",
+          "Ramen noodles",
+          "Chashu beef",
+          "Soft-boiled egg",
+          "Green onions",
+          "Nori seaweed"
+        ],
+        "cooking_method": "Simmer beef bones, garlic, and ginger in water for hours to make broth. Add soy sauce and mirin for seasoning. Cook ramen noodles separately and place in a bowl. Pour hot broth over noodles and top with chashu beef, soft-boiled egg, chopped green onions, and nori seaweed.",
+        "rating": 4.9
+      },
+      {
+        "name": "Gyoza",
+        "ingredients": [
+          "Ground beef",
+          "Cabbage",
+          "Garlic",
+          "Ginger",
+          "Soy sauce",
+          "Sesame oil",
+          "Gyoza wrappers",
+          "Vegetable oil",
+          "Dipping sauce"
+        ],
+        "cooking_method": "Mix ground beef, finely chopped cabbage, garlic, ginger, soy sauce, and sesame oil for the filling. Place the filling on gyoza wrappers and fold into a crescent shape. Pan-fry the gyoza until crispy and serve with dipping sauce.",
+        "rating": 4.7
+      },
+      {
+        "name": "Yakitori",
+        "ingredients": ["Chicken thighs", "Green onions", "Yakitori sauce"],
+        "cooking_method": "Cut chicken thighs into small pieces and thread onto skewers with green onions. Grill over charcoal, brushing with yakitori sauce until cooked through. Serve hot.",
+        "rating": 4.8
+      }
+    ]
+  },
+  {
+    "chef_picture": "https://i.ibb.co/NNVv1DD/vadim-markin-BFt-Il-Gd-WKbk-unsplash.jpg",
+    "id": "5",
+    "chef_name": "Haruki Sato",
+    "years_of_experience": 6,
+    "num_recipes": 38,
+    "likes": 7.8,
+    "bio": "Haruki Sato is a talented chef who brings a fresh perspective to traditional Japanese cuisine. Despite his relatively short culinary career, he has quickly gained recognition for his unique recipes and presentation. Haruki has a strong affinity for sushi and delights in experimenting with different fish and flavor combinations. When he's not behind the stove, he enjoys exploring Japanese tea culture and perfecting his miso soup recipes.",
+    "recipes": [
+      {
+        "name": "Rainbow Sushi Roll",
+        "ingredients": [
+          "Sushi rice",
+          "Nori seaweed",
+          "Salmon",
+          "Tuna",
+          "Avocado",
+          "Cucumber",
+          "Crab sticks",
+          "Soy sauce",
+          "Wasabi",
+          "Pickled ginger"
+        ],
+        "cooking_method": "Spread sushi rice on a sheet of nori. Add slices of salmon, tuna, avocado, cucumber, and crab sticks. Roll the sushi tightly and cut into pieces. Serve with soy sauce, wasabi, and pickled ginger.",
+        "rating": 4.9
+      },
+      {
+        "name": "Traditional Miso Soup",
+        "ingredients": [
+          "Dashi broth",
+          "Miso paste",
+          "Tofu",
+          "Seaweed",
+          "Green onions"
+        ],
+        "cooking_method": "Bring dashi broth to a simmer. Add miso paste and dissolve. Add tofu, seaweed, and chopped green onions. Serve hot.",
+        "rating": 4.5
+      },
+      {
+        "name": "Assorted Tempura",
+        "ingredients": [
+          "Assorted vegetables (sweet potato, zucchini, bell pepper)",
+          "Assorted seafood (shrimp, squid)",
+          "Tempura batter mix",
+          "Ice-cold water",
+          "Vegetable oil",
+          "Tempura dipping sauce"
+        ],
+        "cooking_method": "Cut vegetables and seafood into bite-sized pieces. Dip them in tempura batter and fry until crispy. Serve with tempura dipping sauce.",
+        "rating": 4.7
+      }
+    ]
+  },
+  {
+    "chef_picture": "https://i.ibb.co/S0YXXhT/maks-styazhkin-ZDJ8kkkd7-RY-unsplash.jpg",
+    "id": "6",
+    "chef_name": "Kenta Fujimoto",
+    "years_of_experience": 10,
+    "num_recipes": 60,
+    "likes": 9.9,
+    "bio": "Kenta Fujimoto is a masterful chef with a decade of experience in crafting exceptional Japanese dishes. His culinary journey started as a child, and he has since perfected his skills in renowned kitchens around the globe. Kenta's flair for creating unique and delightful sushi rolls sets him apart in the culinary world. During his downtime, he enjoys exploring the art of traditional ramen-making and experimenting with Japanese dessert delicacies.",
+    "recipes": [
+      {
+        "name": "Volcano Roll",
+        "ingredients": [
+          "Sushi rice",
+          "Nori seaweed",
+          "Spicy tuna",
+          "Cream cheese",
+          "Avocado",
+          "Tempura flakes",
+          "Soy sauce",
+          "Wasabi",
+          "Pickled ginger"
+        ],
+        "cooking_method": "Spread sushi rice on a sheet of nori. Add spicy tuna, cream cheese, avocado, and tempura flakes. Roll the sushi tightly and cut into pieces. Serve with soy sauce, wasabi, and pickled ginger.",
+        "rating": 4.8
+      },
+      {
+        "name": "Tonkotsu Ramen",
+        "ingredients": [
+          "Beef bones",
+          "Soy sauce",
+          "Mirin",
+          "Garlic",
+          "Ginger",
+          "Ramen noodles",
+          "Chashu beef",
+          "Soft-boiled egg",
+          "Seaweed",
+          "Bamboo shoots",
+          "Green onions"
+        ],
+        "cooking_method": "Simmer beef bones, garlic, and ginger in water for hours to make broth. Add soy sauce and mirin for seasoning. Cook ramen noodles separately and place in a bowl. Pour hot broth over noodles and top with chashu beef, soft-boiled egg, seaweed, bamboo shoots, and chopped green onions.",
+        "rating": 4.9
+      },
+      {
+        "name": "Matcha Tiramisu",
+        "ingredients": [
+          "Matcha powder",
+          "Egg yolks",
+          "Sugar",
+          "Mascarpone cheese",
+          "Whipping cream",
+          "Sponge fingers",
+          "Strong brewed coffee",
+          "Cocoa powder"
+        ],
+        "cooking_method": "Whisk matcha powder with egg yolks and sugar. Add mascarpone cheese and whipped cream. Layer sponge fingers soaked in coffee with the matcha mixture. Refrigerate and dust with cocoa powder before serving.",
+        "rating": 4.7
+      }
+    ]
+  }
+]
