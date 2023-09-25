@@ -1,3 +1,3 @@
 # culinary-canvas-server
 
-https://cc-server-9yswu7tqc-developer-sahariar-reza.vercel.app/
+https://culinary-canvas-server-3ckcwp8xc-developer-sahariar-reza.vercel.app/chefs
