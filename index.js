@@ -5,10 +5,20 @@ const port = process.env.PORT || 5000;
 
 app.use(cors());
 
-const chefs = require("./data/chef.json");
+const chefsData = require("./data/chef.json");
 
 app.get("/", (req, res) => {
-  res.send("Culinary Canvas Server");
+  res.send("Culinary Canvas Server is running");
+});
+
+app.get("/chefs", (req, res) => {
+  res.send(chefsData);
+});
+
+app.get("/chefs/:id", (req, res) => {
+  const id = req.params.id;
+  const selectedChef = chefsData.find((chef) => chef._id === id);
+  res.send(selectedChef);
 });
 
 app.listen(port, () => {

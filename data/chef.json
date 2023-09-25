@@ -1,12 +1,108 @@
 [
   {
-    "chef_picture": "https://i.ibb.co/qBRGCF0/jurica-koletic-7-YVZYZe-ITc8-unsplash.jpg",
-    "id": "1",
-    "chef_name": "Yuki Tanaka",
+    "_id": "1",
+    "chef_picture": "https://i.ibb.co/L6Lj9dv/confident-young-male-cook-wearing-chef-uniform-glasses-crossing-hands.jpg",
+    "chef_name": "John Smith",
+    "years_of_experience": 15,
+    "total_recipe": 50,
+    "likes": 5000,
+    "bio": "John Smith is a highly experienced chef with over 15 years in the culinary world. He specializes in international cuisine and has a passion for creating innovative dishes that delight the palate.",
+    "recipes": [
+      {
+        "recipe_name": "Spicy Thai Curry",
+        "ingredients": "coconut milk, red curry paste, chicken, vegetables, basil leaves",
+        "cooking_instructions": "In a pan, sauté the red curry paste, add chicken, pour coconut milk, and simmer. Add veggies and basil leaves. Serve with steamed rice.",
+        "rating": 4.8,
+        "recipe_img": "https://i.ibb.co/7Cc3Sq2/spicy-thai-curry.jpg"
+      },
+      {
+        "recipe_name": "Classic Beef Wellington",
+        "ingredients": "beef fillet, puff pastry, mushroom duxelles, prosciutto, egg wash",
+        "cooking_instructions": "Wrap beef in prosciutto and mushroom duxelles, encase in puff pastry. Brush with egg wash and bake until golden brown. Slice and serve.",
+        "rating": 4.9,
+        "recipe_img": "https://i.ibb.co/8D1wDxP/classic-beef-wellington.jpg"
+      },
+      {
+        "recipe_name": "Mango Salsa Chicken",
+        "ingredients": "chicken breasts, mango, red onion, cilantro, lime juice, jalapeno",
+        "cooking_instructions": "Grill chicken and top with mango salsa (mango, red onion, cilantro, lime juice, and jalapeno). Serve hot.",
+        "rating": 4.7,
+        "recipe_img": "https://i.ibb.co/z7QvKFB/Mango-salsa-chicken.jpg"
+      }
+    ]
+  },
+  {
+    "_id": "2",
+    "chef_picture": "https://i.ibb.co/8mvspNn/happy-young-cook-uniform-holding-salad.jpg",
+    "chef_name": "Maria Rodriguez",
+    "years_of experience": 10,
+    "total_recipe": 40,
+    "likes": 4500,
+    "bio": "Maria Rodriguez is a talented chef with a decade of experience. Her culinary journey began in her grandmother's kitchen, and she's known for her delectable comfort food recipes.",
+    "recipes": [
+      {
+        "recipe_name": "Homemade Chicken Pot Pie",
+        "ingredients": "chicken, carrots, peas, celery, onions, puff pastry, chicken broth",
+        "cooking_instructions": "Sauté vegetables, add cooked chicken, and broth. Simmer and pour into a pie dish. Top with puff pastry and bake until golden.",
+        "rating": 4.6,
+        "recipe_img": "https://i.ibb.co/kqHzmKw/Homemade-Chicken-Pot-Pie.jpg"
+      },
+      {
+        "recipe_name": "Shrimp Scampi Pasta",
+        "ingredients": "shrimp, linguine, garlic, white wine, butter, lemon juice, parsley",
+        "cooking_instructions": "Sauté shrimp in garlic and butter, deglaze with white wine and lemon juice. Toss with cooked linguine and garnish with parsley.",
+        "rating": 4.9,
+        "recipe_img": "https://i.ibb.co/JvGGpnw/Shrimp-Scampi-Pasta.jpg"
+      },
+      {
+        "recipe_name": "Chocolate Lava Cake",
+        "ingredients": "chocolate, butter, sugar, eggs, flour, vanilla extract",
+        "cooking_instructions": "Melt chocolate and butter, mix with sugar, eggs, flour, and vanilla. Bake until the edges are set but the center is gooey. Serve warm.",
+        "rating": 4.8,
+        "recipe_img": "https://i.ibb.co/MMpVSrh/Chocolate-Lava-Cake.jpg"
+      }
+    ]
+  },
+  {
+    "_id": "3",
+    "chef_picture": "https://i.ibb.co/dQMHw6M/male-cook-standing-kitchen-presenting-delicious-dish.jpg",
+    "chef_name": "Antonio Moreno",
+    "years_of_experience": 12,
+    "total_recipe": 60,
+    "likes": 5500,
+    "bio": "Antonio Moreno, a passionate chef for 12 years, brings the flavors of Spain to your kitchen. He's a pro at traditional Spanish dishes and loves sharing his culinary heritage.",
+    "recipes": [
+      {
+        "recipe_name": "Paella Valenciana",
+        "ingredients": "rice, saffron, chicken, rabbit, vegetables, seafood, paprika",
+        "cooking_instructions": "Sauté rabbit and chicken, add rice, saffron, paprika, and broth. Simmer, add seafood, and cook until rice is tender. Serve in a large pan.",
+        "rating": 4.9,
+        "recipe_img": "https://i.ibb.co/RzkZGT1/Paella-Valenciana.jpg"
+      },
+      {
+        "recipe_name": "Gazpacho Andaluz",
+        "ingredients": "tomatoes, cucumbers, bell peppers, garlic, bread, olive oil, vinegar",
+        "cooking_instructions": "Blend tomatoes, cucumbers, peppers, garlic, and soaked bread. Drizzle with olive oil and vinegar. Chill and serve cold.",
+        "rating": 4.7,
+        "recipe_img": "https://i.ibb.co/RQsL4fP/Gazpacho-Andaluz.jpg"
+      },
+      {
+        "recipe_name": "Churros with Chocolate Sauce",
+        "ingredients": "flour, water, salt, oil, chocolate, cream, sugar",
+        "cooking_instructions": "Mix flour, water, and salt to form churro dough. Fry until golden. Serve with a rich chocolate sauce (chocolate, cream, sugar).",
+        "rating": 4.8,
+        "recipe_img": "https://i.ibb.co/hX4gqKG/Churros-with-Chocolate-Sauce.jpg"
+      }
+    ]
+  },
+  {
+    "_id": "4",
+    "chef_picture": "https://i.ibb.co/ZmRLgdX/mid-shot-chef-holding-plate-with-pasta-making-ok-sign.jpg",
+    "chef_name": "Gojo Satrou",
     "years_of_experience": 9,
     "num_recipes": 50,
     "likes": 16.7,
-    "bio": "Yuki Tanaka is a passionate chef who has been working in the culinary industry for over a decade. His love for cooking began at a young age, and he has since honed his skills in some of the finest kitchens in the world. He is known for his innovative recipes and use of fresh, seasonal ingredients. In his free time, Yuki enjoys exploring local food markets and experimenting with new flavors.",
+    "bio": "Gojo Satrou is a passionate chef who has been working in the culinary industry for over a decade. His love for cooking began at a young age, and he has since honed his skills in some of the finest kitchens in the world. He is known for his innovative recipes and use of fresh, seasonal ingredients. In his free time, Yuki enjoys exploring local food markets and experimenting with new flavors.",
     "recipes": [
       {
         "name": "Tuna Sushi Roll",
@@ -20,7 +116,8 @@
           "Wasabi"
         ],
         "cooking_method": "Spread sushi rice on a sheet of nori. Add tuna, cucumber, and avocado. Roll the sushi tightly and cut into bite-sized pieces. Serve with soy sauce and wasabi.",
-        "rating": 4.8
+        "rating": 4.8,
+        "recipe_img": "https://i.ibb.co/SXjBtx2/Tuna-Sushi-Roll.jpg"
       },
       {
         "name": "Tempura Prawns",
@@ -31,7 +128,8 @@
           "Vegetable oil"
         ],
         "cooking_method": "Heat vegetable oil in a deep pan. Dip prawns in tempura batter and fry until crispy and golden. Serve hot with dipping sauce.",
-        "rating": 4.5
+        "rating": 4.5,
+        "recipe_img": "https://i.ibb.co/tcGf3Tw/Tempura-Prawns.jpg"
       },
       {
         "name": "Tonkotsu Ramen",
@@ -47,13 +145,14 @@
           "Green onions"
         ],
         "cooking_method": "Simmer beef bones, garlic, and ginger in water for hours to make broth. Add soy sauce and mirin for seasoning. Cook ramen noodles separately and place in a bowl. Pour hot broth over noodles and top with chashu beef, soft-boiled egg, and chopped green onions.",
-        "rating": 4.9
+        "rating": 4.9,
+        "recipe_img": "https://i.ibb.co/WsdLZ1q/Tonkotsu-Ramen.jpg"
       }
     ]
   },
   {
-    "chef_picture": "https://i.ibb.co/vD6ZTBQ/abdullah-arain-8-n-ZZJCq-Xh0-unsplash.jpg",
-    "id": "2",
+    "chef_picture": "https://i.ibb.co/SDgWhvL/pleased-young-male-cook-chef-uniform-showing-empty-hand-doing-ok-sign-isolated-orange-space.jpg",
+    "_id": "5",
     "chef_name": "Hiroshi Nakamura",
     "years_of_experience": 7,
     "num_recipes": 70,
@@ -69,7 +168,8 @@
           "Pickled ginger"
         ],
         "cooking_method": "Slice fresh salmon into thin pieces. Serve with soy sauce, wasabi, and pickled ginger.",
-        "rating": 4.7
+        "rating": 4.7,
+        "recipe_img": "https://i.ibb.co/BnX8rtD/Salmon-Sashimi.jpg"
       },
       {
         "name": "Kake Udon",
@@ -82,7 +182,8 @@
           "Tempura flakes"
         ],
         "cooking_method": "Cook udon noodles and place in a bowl. Pour hot dashi broth seasoned with soy sauce and mirin over the noodles. Top with chopped green onions and tempura flakes.",
-        "rating": 4.6
+        "rating": 4.6,
+        "recipe_img": "https://i.ibb.co/V3B9pww/Kake-Udon.jpg"
       },
       {
         "name": "Japanese Curry",
@@ -97,18 +198,19 @@
           "Cooked rice"
         ],
         "cooking_method": "Sauté vegetables and meat. Add water and simmer until cooked. Stir in Japanese curry roux until it thickens. Serve over cooked rice.",
-        "rating": 4.9
+        "rating": 4.9,
+        "recipe_img": "https://i.ibb.co/g3QFF4z/Japanese-Curry.jpg"
       }
     ]
   },
   {
-    "chef_picture": "https://i.ibb.co/hKQqbnS/martin-baron-Kdi9-H3-R1ik-unsplash.jpg",
-    "id": "3",
-    "chef_name": "Akira Yamamoto",
+    "chef_picture": "https://i.ibb.co/LrZvj5V/portrait-smiling-chef-uniform.jpg",
+    "_id": "6",
+    "chef_name": "Itadori Yuji",
     "years_of_experience": 11,
     "num_recipes": 50,
     "likes": 13.7,
-    "bio": "Akira Yamamoto is an experienced chef who has dedicated over a decade to perfecting the art of Japanese cuisine. His culinary journey began early in life, and he has since honed his skills in some of the most prestigious kitchens worldwide. Akira is renowned for his creative recipes and emphasis on using fresh, seasonal ingredients. In his leisure time, he enjoys exploring the intricacies of traditional Japanese teas and crafting exquisite matcha desserts.",
+    "bio": "Itadori Yuji is an experienced chef who has dedicated over a decade to perfecting the art of Japanese cuisine. His culinary journey began early in life, and he has since honed his skills in some of the most prestigious kitchens worldwide. Akira is renowned for his creative recipes and emphasis on using fresh, seasonal ingredients. In his leisure time, he enjoys exploring the intricacies of traditional Japanese teas and crafting exquisite matcha desserts.",
     "recipes": [
       {
         "name": "Dragon Roll",
@@ -123,7 +225,8 @@
           "Pickled ginger"
         ],
         "cooking_method": "Spread sushi rice on a sheet of nori. Add tempura shrimp, avocado, and unagi. Roll the sushi tightly and cut into pieces. Serve with soy sauce, wasabi, and pickled ginger.",
-        "rating": 4.8
+        "rating": 4.8,
+        "recipe_img": "https://i.ibb.co/dM1pPGh/Dragon-Roll.jpg"
       },
       {
         "name": "Zaru Soba",
@@ -135,7 +238,8 @@
           "Nori seaweed"
         ],
         "cooking_method": "Cook soba noodles until firm. Drain and rinse under cold water. Serve on a bamboo mat (zaru) with soba tsuyu for dipping. Add wasabi, chopped green onions, and nori as toppings.",
-        "rating": 4.6
+        "rating": 4.6,
+        "recipe_img": "https://i.ibb.co/Wg466dh/Zaru-Soba.jpg"
       },
       {
         "name": "Matcha Cheesecake",
@@ -148,19 +252,20 @@
           "Graham cracker crust"
         ],
         "cooking_method": "Mix cream cheese, sugar, eggs, and sour cream. Add matcha powder for flavor and color. Pour mixture into a graham cracker crust and bake until set. Chill before serving.",
-        "rating": 4.9
+        "rating": 4.9,
+        "recipe_img": "https://i.ibb.co/T8yNF91/Matcha-Cheesecake.jpg"
       }
     ]
   },
   {
-    "chef_picture": "https://i.ibb.co/D8XSBZQ/petr-sevcovic-e12w-QLAj-Qi0-unsplash-1.jpg",
-    "id": "4",
-    "chef_name": "Sakura Watanabe",
+    "chef_picture": "https://i.ibb.co/8m9QvqL/satisfied-professional-male-chef-cook-white-uniform-cook-hat-standing-with-arms-crossed-looking-conf.jpg",
+    "_id": "7",
+    "chef_name": "Roronoa Zoro",
     "years_of_experience": 13,
     "num_recipes": 80,
     "rating": 4.8,
     "likes": 5.5,
-    "bio": "Sakura Watanabe is a seasoned chef with a passion for the diverse flavors of Japan. With more than a decade of culinary experience, she has honed her skills in some of the most prestigious kitchens. Sakura is celebrated for her culinary creativity and her use of fresh, seasonal ingredients. In her spare time, she loves to explore the streets of Tokyo, discovering hidden food gems and perfecting her yakitori grilling techniques.",
+    "bio": "Roronoa Zoro is a seasoned chef with a passion for the diverse flavors of Japan. With more than a decade of culinary experience, she has honed her skills in some of the most prestigious kitchens. Sakura is celebrated for her culinary creativity and her use of fresh, seasonal ingredients. In her spare time, she loves to explore the streets of Tokyo, discovering hidden food gems and perfecting her yakitori grilling techniques.",
     "recipes": [
       {
         "name": "Tonkotsu Ramen",
@@ -177,7 +282,8 @@
           "Nori seaweed"
         ],
         "cooking_method": "Simmer beef bones, garlic, and ginger in water for hours to make broth. Add soy sauce and mirin for seasoning. Cook ramen noodles separately and place in a bowl. Pour hot broth over noodles and top with chashu beef, soft-boiled egg, chopped green onions, and nori seaweed.",
-        "rating": 4.9
+        "rating": 4.9,
+        "recipe_img": "https://i.ibb.co/C1sJYqM/Tonkotsu-Ramen2.jpg"
       },
       {
         "name": "Gyoza",
@@ -193,24 +299,26 @@
           "Dipping sauce"
         ],
         "cooking_method": "Mix ground beef, finely chopped cabbage, garlic, ginger, soy sauce, and sesame oil for the filling. Place the filling on gyoza wrappers and fold into a crescent shape. Pan-fry the gyoza until crispy and serve with dipping sauce.",
-        "rating": 4.7
+        "rating": 4.7,
+        "recipe_img": "https://i.ibb.co/ThH5xD3/Gyoza.jpg"
       },
       {
         "name": "Yakitori",
         "ingredients": ["Chicken thighs", "Green onions", "Yakitori sauce"],
         "cooking_method": "Cut chicken thighs into small pieces and thread onto skewers with green onions. Grill over charcoal, brushing with yakitori sauce until cooked through. Serve hot.",
-        "rating": 4.8
+        "rating": 4.8,
+        "recipe_img": "https://i.ibb.co/dDm5vzD/Yakitori.jpg"
       }
     ]
   },
   {
-    "chef_picture": "https://i.ibb.co/NNVv1DD/vadim-markin-BFt-Il-Gd-WKbk-unsplash.jpg",
-    "id": "5",
-    "chef_name": "Haruki Sato",
+    "chef_picture": "https://i.ibb.co/J5KR5Pn/young-bearded-man-his-work-place-cooking-vegetables.jpg",
+    "_id": "8",
+    "chef_name": "Tsunade Senju",
     "years_of_experience": 6,
     "num_recipes": 38,
     "likes": 7.8,
-    "bio": "Haruki Sato is a talented chef who brings a fresh perspective to traditional Japanese cuisine. Despite his relatively short culinary career, he has quickly gained recognition for his unique recipes and presentation. Haruki has a strong affinity for sushi and delights in experimenting with different fish and flavor combinations. When he's not behind the stove, he enjoys exploring Japanese tea culture and perfecting his miso soup recipes.",
+    "bio": "Tsunade Senju is a talented chef who brings a fresh perspective to traditional Japanese cuisine. Despite his relatively short culinary career, he has quickly gained recognition for his unique recipes and presentation. Haruki has a strong affinity for sushi and delights in experimenting with different fish and flavor combinations. When he's not behind the stove, he enjoys exploring Japanese tea culture and perfecting his miso soup recipes.",
     "recipes": [
       {
         "name": "Rainbow Sushi Roll",
@@ -227,7 +335,8 @@
           "Pickled ginger"
         ],
         "cooking_method": "Spread sushi rice on a sheet of nori. Add slices of salmon, tuna, avocado, cucumber, and crab sticks. Roll the sushi tightly and cut into pieces. Serve with soy sauce, wasabi, and pickled ginger.",
-        "rating": 4.9
+        "rating": 4.9,
+        "recipe_img": "https://i.ibb.co/GT1Sbdg/Rainbow-Sushi-Roll.jpg"
       },
       {
         "name": "Traditional Miso Soup",
@@ -239,7 +348,8 @@
           "Green onions"
         ],
         "cooking_method": "Bring dashi broth to a simmer. Add miso paste and dissolve. Add tofu, seaweed, and chopped green onions. Serve hot.",
-        "rating": 4.5
+        "rating": 4.5,
+        "recipe_img": "https://i.ibb.co/VxtVBHV/Traditional-Miso-Soup.jpg"
       },
       {
         "name": "Assorted Tempura",
@@ -252,18 +362,19 @@
           "Tempura dipping sauce"
         ],
         "cooking_method": "Cut vegetables and seafood into bite-sized pieces. Dip them in tempura batter and fry until crispy. Serve with tempura dipping sauce.",
-        "rating": 4.7
+        "rating": 4.7,
+        "recipe_img": "https://i.ibb.co/c30xNS4/Assorted-Tempura.jpg"
       }
     ]
   },
   {
-    "chef_picture": "https://i.ibb.co/S0YXXhT/maks-styazhkin-ZDJ8kkkd7-RY-unsplash.jpg",
-    "id": "6",
-    "chef_name": "Kenta Fujimoto",
+    "chef_picture": "https://i.ibb.co/KXd11q9/chef-making-ok-sign-white-background.jpg",
+    "_id": "9",
+    "chef_name": "Linas Rosario",
     "years_of_experience": 10,
     "num_recipes": 60,
     "likes": 9.9,
-    "bio": "Kenta Fujimoto is a masterful chef with a decade of experience in crafting exceptional Japanese dishes. His culinary journey started as a child, and he has since perfected his skills in renowned kitchens around the globe. Kenta's flair for creating unique and delightful sushi rolls sets him apart in the culinary world. During his downtime, he enjoys exploring the art of traditional ramen-making and experimenting with Japanese dessert delicacies.",
+    "bio": "Linas Rosario is a masterful chef with a decade of experience in crafting exceptional Japanese dishes. His culinary journey started as a child, and he has since perfected his skills in renowned kitchens around the globe. Kenta's flair for creating unique and delightful sushi rolls sets him apart in the culinary world. During his downtime, he enjoys exploring the art of traditional ramen-making and experimenting with Japanese dessert delicacies.",
     "recipes": [
       {
         "name": "Volcano Roll",
@@ -279,7 +390,8 @@
           "Pickled ginger"
         ],
         "cooking_method": "Spread sushi rice on a sheet of nori. Add spicy tuna, cream cheese, avocado, and tempura flakes. Roll the sushi tightly and cut into pieces. Serve with soy sauce, wasabi, and pickled ginger.",
-        "rating": 4.8
+        "rating": 4.8,
+        "recipe_img": "https://i.ibb.co/sRZMDvj/Volcano-Roll.jpg"
       },
       {
         "name": "Tonkotsu Ramen",
@@ -297,7 +409,8 @@
           "Green onions"
         ],
         "cooking_method": "Simmer beef bones, garlic, and ginger in water for hours to make broth. Add soy sauce and mirin for seasoning. Cook ramen noodles separately and place in a bowl. Pour hot broth over noodles and top with chashu beef, soft-boiled egg, seaweed, bamboo shoots, and chopped green onions.",
-        "rating": 4.9
+        "rating": 4.9,
+        "recipe_img": "https://i.ibb.co/3fHzwmS/Tonkotsu-Ramen3.jpg"
       },
       {
         "name": "Matcha Tiramisu",
@@ -312,7 +425,8 @@
           "Cocoa powder"
         ],
         "cooking_method": "Whisk matcha powder with egg yolks and sugar. Add mascarpone cheese and whipped cream. Layer sponge fingers soaked in coffee with the matcha mixture. Refrigerate and dust with cocoa powder before serving.",
-        "rating": 4.7
+        "rating": 4.7,
+        "recipe_img": "https://i.ibb.co/zb89jMC/Matcha-Tiramisu.jpg"
       }
     ]
   }
