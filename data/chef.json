@@ -106,44 +106,23 @@
     "recipes": [
       {
         "recipe_name": "Tuna Sushi Roll",
-        "ingredients": [
-          "Sushi rice",
-          "Tuna",
-          "Nori seaweed",
-          "Cucumber",
-          "Avocado",
-          "Soy sauce",
-          "Wasabi"
-        ],
+        "ingredients": "Sushi rice, Tuna, Nori seaweed, Cucumber, Avocado, Soy sauce,  Wasabi",
+
         "cooking_instructions": "Spread sushi rice on a sheet of nori. Add tuna, cucumber, and avocado. Roll the sushi tightly and cut into bite-sized pieces. Serve with soy sauce and wasabi.",
         "rating": 4.8,
         "recipe_img": "https://i.ibb.co/SXjBtx2/Tuna-Sushi-Roll.jpg"
       },
       {
         "recipe_name": "Tempura Prawns",
-        "ingredients": [
-          "Prawns",
-          "Tempura batter mix",
-          "Ice-cold water",
-          "Vegetable oil"
-        ],
+        "ingredients": "Prawns, Tempura batter mix, Ice-cold water,  Vegetable oil",
+
         "cooking_instructions": "Heat vegetable oil in a deep pan. Dip prawns in tempura batter and fry until crispy and golden. Serve hot with dipping sauce.",
         "rating": 4.5,
         "recipe_img": "https://i.ibb.co/tcGf3Tw/Tempura-Prawns.jpg"
       },
       {
         "recipe_name": "Tonkotsu Ramen",
-        "ingredients": [
-          "Beef bones",
-          "Soy sauce",
-          "Mirin",
-          "Garlic",
-          "Ginger",
-          "Ramen noodles",
-          "Chashu beef",
-          "Soft-boiled egg",
-          "Green onions"
-        ],
+        "ingredients": "Beef bones, Soy sauce, Mirin, Garlic, Ginger, Ramen noodles,Chashu beef, Soft-boiled egg, Green onions",
         "cooking_instructions": "Simmer beef bones, garlic, and ginger in water for hours to make broth. Add soy sauce and mirin for seasoning. Cook ramen noodles separately and place in a bowl. Pour hot broth over noodles and top with chashu beef, soft-boiled egg, and chopped green onions.",
         "rating": 4.9,
         "recipe_img": "https://i.ibb.co/WsdLZ1q/Tonkotsu-Ramen.jpg"
@@ -161,42 +140,21 @@
     "recipes": [
       {
         "recipe_name": "Salmon Sashimi",
-        "ingredients": [
-          "Fresh salmon",
-          "Soy sauce",
-          "Wasabi",
-          "Pickled ginger"
-        ],
+        "ingredients": "Fresh salmon, Soy sauce, Wasabi,Pickled ginger",
         "cooking_instructions": "Slice fresh salmon into thin pieces. Serve with soy sauce, wasabi, and pickled ginger.",
         "rating": 4.7,
         "recipe_img": "https://i.ibb.co/BnX8rtD/Salmon-Sashimi.jpg"
       },
       {
         "recipe_name": "Kake Udon",
-        "ingredients": [
-          "Udon noodles",
-          "Dashi broth",
-          "Soy sauce",
-          "Mirin",
-          "Green onions",
-          "Tempura flakes"
-        ],
+        "ingredients": "Udon noodles, Dashi broth, Soy sauce, Mirin, Green onions, Tempura flakes",
         "cooking_instructions": "Cook udon noodles and place in a bowl. Pour hot dashi broth seasoned with soy sauce and mirin over the noodles. Top with chopped green onions and tempura flakes.",
         "rating": 4.6,
         "recipe_img": "https://i.ibb.co/V3B9pww/Kake-Udon.jpg"
       },
       {
         "recipe_name": "Japanese Curry",
-        "ingredients": [
-          "Vegetables",
-          "Potatoes",
-          "Carrots",
-          "Onion",
-          "Chicken or beef",
-          "Japanese curry roux",
-          "Water",
-          "Cooked rice"
-        ],
+        "ingredients": "Vegetables, Potatoes, Carrots, Onion, Chicken or beef, Japanese curry roux, Water, Cooked rice",
         "cooking_instructions": "Sauté vegetables and meat. Add water and simmer until cooked. Stir in Japanese curry roux until it thickens. Serve over cooked rice.",
         "rating": 4.9,
         "recipe_img": "https://i.ibb.co/g3QFF4z/Japanese-Curry.jpg"
@@ -214,43 +172,21 @@
     "recipes": [
       {
         "recipe_name": "Dragon Roll",
-        "ingredients": [
-          "Sushi rice",
-          "Nori seaweed",
-          "Tempura shrimp",
-          "Avocado",
-          "Unagi (eel)",
-          "Soy sauce",
-          "Wasabi",
-          "Pickled ginger"
-        ],
+        "ingredients": "Sushi rice, Nori seaweed, Tempura shrimp, Avocado, Unagi (eel), Soy sauce, Wasabi, Pickled ginger",
         "cooking_instructions": "Spread sushi rice on a sheet of nori. Add tempura shrimp, avocado, and unagi. Roll the sushi tightly and cut into pieces. Serve with soy sauce, wasabi, and pickled ginger.",
         "rating": 4.8,
         "recipe_img": "https://i.ibb.co/dM1pPGh/Dragon-Roll.jpg"
       },
       {
         "recipe_name": "Zaru Soba",
-        "ingredients": [
-          "Soba noodles",
-          "Soba tsuyu (dipping sauce)",
-          "Wasabi",
-          "Green onions",
-          "Nori seaweed"
-        ],
+        "ingredients": "Soba noodles, Soba tsuyu (dipping sauce, Wasabi, Green onions, Nori seaweed",
         "cooking_instructions": "Cook soba noodles until firm. Drain and rinse under cold water. Serve on a bamboo mat (zaru) with soba tsuyu for dipping. Add wasabi, chopped green onions, and nori as toppings.",
         "rating": 4.6,
         "recipe_img": "https://i.ibb.co/Wg466dh/Zaru-Soba.jpg"
       },
       {
         "recipe_name": "Matcha Cheesecake",
-        "ingredients": [
-          "Cream cheese",
-          "Sugar",
-          "Eggs",
-          "Sour cream",
-          "Matcha powder",
-          "Graham cracker crust"
-        ],
+        "ingredients": "Cream cheese,Sugar,Eggs,Sour cream,Matcha powder,Graham cracker crust",
         "cooking_instructions": "Mix cream cheese, sugar, eggs, and sour cream. Add matcha powder for flavor and color. Pour mixture into a graham cracker crust and bake until set. Chill before serving.",
         "rating": 4.9,
         "recipe_img": "https://i.ibb.co/T8yNF91/Matcha-Cheesecake.jpg"
@@ -268,42 +204,21 @@
     "recipes": [
       {
         "recipe_name": "Tonkotsu Ramen",
-        "ingredients": [
-          "Beef bones",
-          "Soy sauce",
-          "Mirin",
-          "Garlic",
-          "Ginger",
-          "Ramen noodles",
-          "Chashu beef",
-          "Soft-boiled egg",
-          "Green onions",
-          "Nori seaweed"
-        ],
+        "ingredients": "Beef bones, Soy sauce, Mirin, Garlic, Ginger, Ramen noodles, Chashu beef, Soft-boiled egg, Green onions, Nori seaweed",
         "cooking_instructions": "Simmer beef bones, garlic, and ginger in water for hours to make broth. Add soy sauce and mirin for seasoning. Cook ramen noodles separately and place in a bowl. Pour hot broth over noodles and top with chashu beef, soft-boiled egg, chopped green onions, and nori seaweed.",
         "rating": 4.9,
         "recipe_img": "https://i.ibb.co/C1sJYqM/Tonkotsu-Ramen2.jpg"
       },
       {
         "recipe_name": "Gyoza",
-        "ingredients": [
-          "Ground beef",
-          "Cabbage",
-          "Garlic",
-          "Ginger",
-          "Soy sauce",
-          "Sesame oil",
-          "Gyoza wrappers",
-          "Vegetable oil",
-          "Dipping sauce"
-        ],
+        "ingredients": "Ground beef, Cabbage, Garlic, Ginger, Soy sauce, Sesame oil, Gyoza wrappers, Vegetable oil, Dipping sauce",
         "cooking_instructions": "Mix ground beef, finely chopped cabbage, garlic, ginger, soy sauce, and sesame oil for the filling. Place the filling on gyoza wrappers and fold into a crescent shape. Pan-fry the gyoza until crispy and serve with dipping sauce.",
         "rating": 4.7,
         "recipe_img": "https://i.ibb.co/ThH5xD3/Gyoza.jpg"
       },
       {
         "recipe_name": "Yakitori",
-        "ingredients": ["Chicken thighs", "Green onions", "Yakitori sauce"],
+        "ingredients": "Chicken thighs, Green onions, Yakitori sauce",
         "cooking_instructions": "Cut chicken thighs into small pieces and thread onto skewers with green onions. Grill over charcoal, brushing with yakitori sauce until cooked through. Serve hot.",
         "rating": 4.8,
         "recipe_img": "https://i.ibb.co/dDm5vzD/Yakitori.jpg"
@@ -321,45 +236,21 @@
     "recipes": [
       {
         "recipe_name": "Rainbow Sushi Roll",
-        "ingredients": [
-          "Sushi rice",
-          "Nori seaweed",
-          "Salmon",
-          "Tuna",
-          "Avocado",
-          "Cucumber",
-          "Crab sticks",
-          "Soy sauce",
-          "Wasabi",
-          "Pickled ginger"
-        ],
+        "ingredients": "Sushi rice, Salmon, Nori seaweed, Tuna, Avocado, Cucumber, Crab sticks, Soy sauce, Wasabi, Pickled ginger",
         "cooking_instructions": "Spread sushi rice on a sheet of nori. Add slices of salmon, tuna, avocado, cucumber, and crab sticks. Roll the sushi tightly and cut into pieces. Serve with soy sauce, wasabi, and pickled ginger.",
         "rating": 4.9,
         "recipe_img": "https://i.ibb.co/GT1Sbdg/Rainbow-Sushi-Roll.jpg"
       },
       {
         "recipe_name": "Traditional Miso Soup",
-        "ingredients": [
-          "Dashi broth",
-          "Miso paste",
-          "Tofu",
-          "Seaweed",
-          "Green onions"
-        ],
+        "ingredients": "Dashi broth, Miso paste, Tofu, Seaweed, Green onions",
         "cooking_instructions": "Bring dashi broth to a simmer. Add miso paste and dissolve. Add tofu, seaweed, and chopped green onions. Serve hot.",
         "rating": 4.5,
         "recipe_img": "https://i.ibb.co/VxtVBHV/Traditional-Miso-Soup.jpg"
       },
       {
         "recipe_name": "Assorted Tempura",
-        "ingredients": [
-          "Assorted vegetables (sweet potato, zucchini, bell pepper)",
-          "Assorted seafood (shrimp, squid)",
-          "Tempura batter mix",
-          "Ice-cold water",
-          "Vegetable oil",
-          "Tempura dipping sauce"
-        ],
+        "ingredients": "Assorted vegetables (sweet potato, zucchini, bell pepper), Assorted seafood (shrimp, squid), Tempura batter mix, Ice-cold water, Vegetable oil, Tempura dipping sauce",
         "cooking_instructions": "Cut vegetables and seafood into bite-sized pieces. Dip them in tempura batter and fry until crispy. Serve with tempura dipping sauce.",
         "rating": 4.7,
         "recipe_img": "https://i.ibb.co/c30xNS4/Assorted-Tempura.jpg"
@@ -377,52 +268,21 @@
     "recipes": [
       {
         "recipe_name": "Volcano Roll",
-        "ingredients": [
-          "Sushi rice",
-          "Nori seaweed",
-          "Spicy tuna",
-          "Cream cheese",
-          "Avocado",
-          "Tempura flakes",
-          "Soy sauce",
-          "Wasabi",
-          "Pickled ginger"
-        ],
+        "ingredients": "Sushi rice, Nori seaweed, Spicy tuna, Cream cheese, Avocado, Tempura flakes, Soy sauce, Wasabi, Pickled ginger",
         "cooking_instructions": "Spread sushi rice on a sheet of nori. Add spicy tuna, cream cheese, avocado, and tempura flakes. Roll the sushi tightly and cut into pieces. Serve with soy sauce, wasabi, and pickled ginger.",
         "rating": 4.8,
         "recipe_img": "https://i.ibb.co/sRZMDvj/Volcano-Roll.jpg"
       },
       {
         "recipe_name": "Tonkotsu Ramen",
-        "ingredients": [
-          "Beef bones",
-          "Soy sauce",
-          "Mirin",
-          "Garlic",
-          "Ginger",
-          "Ramen noodles",
-          "Chashu beef",
-          "Soft-boiled egg",
-          "Seaweed",
-          "Bamboo shoots",
-          "Green onions"
-        ],
+        "ingredients": "Beef bones, Soy sauce, Mirin, Garlic, Ginger, Ramen noodles, Chashu beef, Soft-boiled egg, Seaweed, Bamboo shoots, Green onions",
         "cooking_instructions": "Simmer beef bones, garlic, and ginger in water for hours to make broth. Add soy sauce and mirin for seasoning. Cook ramen noodles separately and place in a bowl. Pour hot broth over noodles and top with chashu beef, soft-boiled egg, seaweed, bamboo shoots, and chopped green onions.",
         "rating": 4.9,
         "recipe_img": "https://i.ibb.co/3fHzwmS/Tonkotsu-Ramen3.jpg"
       },
       {
         "recipe_name": "Matcha Tiramisu",
-        "ingredients": [
-          "Matcha powder",
-          "Egg yolks",
-          "Sugar",
-          "Mascarpone cheese",
-          "Whipping cream",
-          "Sponge fingers",
-          "Strong brewed coffee",
-          "Cocoa powder"
-        ],
+        "ingredients": "Matcha powder, Egg yolks, Sugar, Mascarpone cheese, Whipping cream, Sponge fingers, Strong brewed coffee, Cocoa powder",
         "cooking_instructions": "Whisk matcha powder with egg yolks and sugar. Add mascarpone cheese and whipped cream. Layer sponge fingers soaked in coffee with the matcha mixture. Refrigerate and dust with cocoa powder before serving.",
         "rating": 4.7,
         "recipe_img": "https://i.ibb.co/zb89jMC/Matcha-Tiramisu.jpg"
